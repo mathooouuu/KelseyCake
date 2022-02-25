@@ -1,0 +1,13 @@
+body{
+    margin-left: 50px;
+}
+
+body p {
+    font-weight: bold;
+    font-size: 18px;
+    color: #574b90;
+}
+
+input {
+    margin-bottom: 20px;
+}
