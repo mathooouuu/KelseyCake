@@ -19,6 +19,8 @@
             <h3>Liste des commandes passées</h3>
 
             <p>Vous n'avez commandé aucun produit</p>
+            <a href="shop.php">Continuez vos achats</a>
+            
         </div>
         <?php include_once('footer.php'); ?>
     </body>
