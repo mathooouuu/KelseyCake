@@ -17,6 +17,7 @@
             <?php include_once('header.php'); ?>
             <h1>Mes favoris</h1>
             <p>Vous n'avez pas ajouté de favoris</p>
+            <a href="shop.php">Continuez vos achats</a>
         </div>
 
         
